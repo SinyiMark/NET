@@ -1,0 +1,7 @@
+G:\CodeCool\NET\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+G:\CodeCool\NET\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+G:\CodeCool\NET\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+G:\CodeCool\NET\CreateClass\CreateClass\obj\Debug\CreateClass.csprojResolveAssemblyReference.cache
+G:\CodeCool\NET\CreateClass\CreateClass\obj\Debug\CreateClass.csproj.CoreCompileInputs.cache
+G:\CodeCool\NET\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+G:\CodeCool\NET\CreateClass\CreateClass\obj\Debug\CreateClass.pdb

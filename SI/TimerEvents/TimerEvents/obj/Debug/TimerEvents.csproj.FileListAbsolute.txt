@@ -1,0 +1,17 @@
+G:\CodeCool\NET\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+G:\CodeCool\NET\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+G:\CodeCool\NET\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojResolveAssemblyReference.cache
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\MainWindow.g.cs
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\App.g.cs
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.cache
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.lref
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\MainWindow.baml
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents.g.resources
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\Masodik.g.cs
+G:\CodeCool\NET\TimerEvents\TimerEvents\obj\Debug\Masodik.baml
