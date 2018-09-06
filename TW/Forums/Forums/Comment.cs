@@ -3,7 +3,7 @@
     public class Comment : Entry
     {
         public bool Moderated { get; set; } = false;
-        private int idCounter { get; set; } = 1;
+        private static int idCounter { get; set; } = 1;
 
         public Comment(string message) : base(message)
         {

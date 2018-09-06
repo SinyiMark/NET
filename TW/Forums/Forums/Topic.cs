@@ -6,7 +6,7 @@ namespace Forums
     {
         public string Title { get; set; }
         public List<Comment> Comments { get; set; } = new List<Comment>();
-        private int idCounter { get; set; } = 1;
+        private static int idCounter { get; set; } = 1;
 
         public Topic(string message, string title) : base(message)
         {
